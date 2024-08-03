@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1",
+    "category": "FullStackDevelopment",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2024/04/Feature-Image-Top-Technologies-to-Learn-for-a-Java-Backend-Developer.webp",
+    "title": "Top 10 Full-Stack Developer Frameworks in 2024",
+    "author": "By Isha Sharma",
+    "timeStamp": "16 Apr, 2024",
+    "timeToRead": "5 Min Read",
+    "url": "https://www.guvi.in/blog/full-stack-developer-frameworks/"
+  },
+  {
+    "id": "2",
+    "category": "FullStackDevelopment",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2024/06/Feature-Image-ReactJS-Tutorial-Crafting-a-ToDo-List-Application-in-Simple-Steps.webp",
+    "title": "6 Essential Prerequisites For Learning ReactJS",
+    "author": "By Ramkumar",
+    "timeStamp": "Mar 25, 2024",
+    "timeToRead": "3 Min Read",
+    "url": "https://www.guvi.in/blog/prerequisites-for-reactjs/"
+  },
+  {
+    "id": "3",
+    "category": "FullStackDevelopment",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2024/02/Project-Ideas-for-Frontend-Development.webp",
+    "title": "Comprehensive List of Project Ideas for Frontend Development [2024]",
+    "author": "By Lukesh S",
+    "timeStamp": "Mar 19, 2024",
+    "timeToRead": "7 Min Read",
+    "url": "https://www.guvi.in/blog/project-ideas-for-frontend-development/"
+  },
+
+  {
+    "id": "4",
+    "category": "DataScience",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+    "title": "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+    "author": "By Isha Sharma",
+    "timeStamp": "Jul 23, 2024",
+    "timeToRead": "6 Min Read",
+    "url": "https://www.guvi.in/blog/top-non-coding-jobs-in-data-science/"
+  },
+  {
+    "id": "5",
+    "category": "DataScience",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/07/Real-World-Data-Science-Examples-1200x628.webp",
+    "title": "12 Real-World Data Science Examples: Power Of Data Science",
+    "author": "By Lukesh S",
+    "timeStamp": "Mar 25, 2024",
+    "timeToRead": "7 Min Read",
+    "url": "https://www.guvi.in/blog/real-world-data-science-examples/"
+  },
+  {
+    "id": "6",
+    "category": "DataScience",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Best-Data-Science-Online-Courses-for-Beginners.webp",
+    "title": "Can A Commerce Student Do Data Science?",
+    "author": "By Saakshi Priyadarshini",
+    "timeStamp": "Apr 16, 2024",
+    "timeToRead": "3 Min Read",
+    "url": "https://www.guvi.in/blog/can-commerce-students-do-data-science/"
+  },
+  {
+    "id": "7",
+    "category": "CyberSecurity",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners-1200x571.webp",
+    "title": "The Ultimate Cybersecurity Roadmap for Beginners",
+    "author": "By Srinithi Sankar",
+    "timeStamp": "Mar 23, 2024",
+    "timeToRead": "3 Min Read",
+    "url": "https://www.guvi.in/blog/cybersecurity-jobs-the-ultimate-beginners-guide-with-roadmap/"
+  },
+  {
+    "id": "8",
+    "category": "CyberSecurity",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+    "title": "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+    "author": "By Jaishree Tomar",
+    "timeStamp": "Mar 26, 2024",
+    "timeToRead": "4 Min Read",
+    "url": "https://www.guvi.in/blog/top-non-coding-jobs-in-cybersecurity/"
+  },
+  {
+    "id": "9",
+    "category": "CyberSecurity",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+    "title": "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+    "author": "By Tushar Vinocha",
+    "timeStamp": "Apr 16, 2024",
+    "timeToRead": "5 Min Read",
+    "url": "https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/"
+  },
+  {
+    "id": "10",
+    "category": "Career",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2024/08/DevOps-vs-Data-Science.webp",
+    "title": "DevOps vs Data Science: Which Career is Best?",
+    "author": "By Lukesh S",
+    "timeStamp": "Aug 01, 2024",
+    "timeToRead": "5 Min Read",
+    "url": "https://www.guvi.in/blog/devops-vs-data-science/"
+  },
+  {
+    "id": "11",
+    "category": "Career",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/03/Feature-Image-Power-BI-Developer-Career-Skills-Role-Salary-Scope.webp",
+    "title": "Power BI Developer 2024: Career, Skills, Role, Salary, Scope",
+    "author": "By Saakshi Priyadarshini",
+    "timeStamp": "Jul 29, 2024",
+    "timeToRead": "5 Min Read",
+    "url": "https://www.guvi.in/blog/power-bi-developer-roles-skills-salary-scope/"
+  },
+  {
+    "id": "12",
+    "category": "Career",
+    "imageUrl": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-How-to-Become-a-Web-Developer-%E2%80%93-Your-Web-Development-Career-Roadmap.webp",
+    "title": "MEAN vs MERN: Career Growth & Salary",
+    "author": "By admin",
+    "timeStamp": "Jul 29, 2024",
+    "timeToRead": "5 Min Read",
+    "url": "https://www.guvi.in/blog/mean-vs-mern-stack-the-right-choice-for-me/"
+  }
+
+]
